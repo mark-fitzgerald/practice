@@ -1,1 +1,4 @@
 This is a new document.
+
+So far, so good. This makes sense. Ready for GitHub.
+
