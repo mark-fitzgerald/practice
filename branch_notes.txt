@@ -1,0 +1,3 @@
+Learning about branches. Just simple concept so far. Will see where this goes.
+
+Waiting to see how to merge branches.
