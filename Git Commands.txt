@@ -11,4 +11,4 @@ git commit -m "Comments for commit"
 
 git remote add origin https://github.com/mark-fitzgerald/<branch.git>
 git checkout master
-git push -u origin master
+git push origin master
