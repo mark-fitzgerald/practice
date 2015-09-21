@@ -1,0 +1,14 @@
+git config --list
+git config --global user.email "username@email.com"
+git config --global user.name "Mark Fitzgerald"
+
+git log
+
+git status
+
+git add <document-name>
+git commit -m "Comments for commit"
+
+git remote add origin https://github.com/mark-fitzgerald/<branch.git>
+git checkout master
+git push -u origin master
